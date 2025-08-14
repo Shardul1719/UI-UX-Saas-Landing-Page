@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/ukiGFmZ32YA?feature=shared" target="_blank">
+<!--     <a href="https://youtu.be/ukiGFmZ32YA?feature=shared" target="_blank">
       <img src="https://github.com/user-attachments/assets/a582919b-1bdf-4cb2-af44-69b2159cf109" alt="Project Banner">
-    </a>
+    </a> -->
   <br />
 
   <div>
@@ -13,9 +13,7 @@
 
 <h3 align="center">Modern UI/UX SaaS Website</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
