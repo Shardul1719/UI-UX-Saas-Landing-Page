@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/ukiGFmZ32YA?feature=shared" target="_blank">
+<!--     <a href="https://youtu.be/ukiGFmZ32YA?feature=shared" target="_blank"> -->
       <img src="https://github.com/user-attachments/assets/a582919b-1bdf-4cb2-af44-69b2159cf109" alt="Project Banner">
     </a>
   <br />
@@ -74,7 +74,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/xora.git
+git clone https://github.com/Shardul1719/UI-UX-Saas-Landing-Page.git
 cd xora
 ```
 
